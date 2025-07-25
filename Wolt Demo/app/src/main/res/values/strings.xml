@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wolt Assignment Demo</string>
+    <string name="str_no_internet_connection">No Internet Connection</string>
+    <string name="str_please_check_your_internet_connection_and_try_again">Please check your internet connection and try again.</string>
+    <string name="str_retry">Retry</string>
+    <string name="str_close">Close</string>
+</resources>
