@@ -14,6 +14,14 @@ This app was originally submitted as part of an internship assignment, and has b
   
   - ♻️ Location loop: After the final coordinate, the app restarts from the beginning.
 ***
+## 📸 Screenshots
+  <p align="center">
+  <img src="Screenshot1.jpeg" width="300"/>
+  <img src="Screenshot2.jpeg" width="300"/>
+  <img src="Screenshot3.jpeg" width="300"/>
+</p>
+
+***
 ## 🧠 What I Learned
   - Working with real-world APIs and parsing complex JSON responses
   
